@@ -1,4 +1,16 @@
-h1, h2, h3, h4, h5, h6 {
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Calibri';
     color: rgb(158, 184, 211);
     font-size: 60px;
+}
+
+p,
+pre {
+    font-family: courier;
+    color: slategrey;
 }
